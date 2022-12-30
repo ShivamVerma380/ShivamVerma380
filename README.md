@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **shivamvermasv380@gmail.com**
 
-- ⚡ Fun fact **I think I don't take things seriously.**
+- ⚡ Fun fact **I think I don't take life too seriously.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
