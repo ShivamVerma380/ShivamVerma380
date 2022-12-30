@@ -13,6 +13,12 @@
 
 - 💬 Ask me about **react js,android,java,springboot,c++**
 
+- ⭐ Hosted Projects:
+1. Mahavir E-commerce website: **https://www.mahavirelectronics.net**
+2. Mahavir AV Solutions website: **https://www.mahaviravsolutions.in**
+3. Paryatan App: **https://play.google.com/store/apps/details?id=com.brewingjava.paryatan**  
+ 
+
 - 📫 How to reach me **shivamvermasv380@gmail.com**
 
 - ⚡ Fun fact **I think I don't take life too seriously.**
