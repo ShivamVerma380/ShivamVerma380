@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working as a **Storage Software Intern at Seagate Technology**
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **to upgrade my skills**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ShivamVerma380](https://github.com/ShivamVerma380)
 
