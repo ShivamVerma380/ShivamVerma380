@@ -1,25 +1,29 @@
-<h1 align="center">Hi 👋, I'm Shivam Verma</h1>
-<h3 align="center">A full-stack android/web developer.</h3>
+ <h1 align="center">Hi 👋, I'm Shivam Verma</h1>
+<h3 align="center">A full-stack Java developer.</h3>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivamverma380&label=Profile%20views&color=0e75b6&style=flat" alt="shivamverma380" /> </p> -->
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivamverma380" alt="shivamverma380" /></a> </p> -->
 
-- 🔭 I’m currently working as a **Storage Software Intern at Seagate Technology**
+- 🔭 I’m currently working as a **Software Engineer at RedSeal**, contributing to secure networking and compliance tooling
 
-- 🌱 I’m currently **upgrading my skills**
+- 🌱 I’m **constantly upgrading my skills**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ShivamVerma380](https://github.com/ShivamVerma380)
 
-- 💬 Ask me about **react js,android,java,springboot,c++**
+- 🧩 **Open Source Contributions:**
+  - **Tomcat:** Patch to handle MD5 failure under FIPS ([Bug](https://bz.apache.org/bugzilla/show_bug.cgi?id=69607), [PR](https://github.com/apache/tomcat/commit/3b616b23d285c78ce7fdf8bac57aadb7f3688576))
+  - **Hibernate:** SHA-256 fallback for constraint names under FIPS ([Bug](https://hibernate.atlassian.net/browse/HHH-19471), [PR](https://github.com/hibernate/hibernate-orm/pull/10169))
+
+- 🧠 **AI/LLM Work:**
+  - Developed a private RAG-based LLM to answer 100+ internal queries at RedSeal using **Flask, WebSocket, Qdrant, Ollama** — now productized.
 
 - ⭐ Hosted Projects:
 1. Mahavir E-commerce website: **https://www.mahavirelectronics.net**
 2. Mahavir AV Solutions website: **https://www.mahaviravsolutions.in**
 3. Paryatan App: **https://play.google.com/store/apps/details?id=com.brewingjava.paryatan**  
- 
 
-- 📫 How to reach me **shivamvermasv380@gmail.com**
+- 📫 Reach me at **shivamvermasv380@gmail.com**
 
 - ⚡ Fun fact **I think I don't take life too seriously.**
 
